@@ -1,2 +1,2 @@
 # pranav-msc12.github.io
-webkriti file
+Project created for Webkriti- Web-Development contest at ABV-IIITM Gwalior!
